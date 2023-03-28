@@ -1,4 +1,4 @@
-"""DataUpdateCoordinator for integration_blueprint."""
+"""DataUpdateCoordinator for custom_components/lux_gas_scraper."""
 from __future__ import annotations
 
 from datetime import timedelta
